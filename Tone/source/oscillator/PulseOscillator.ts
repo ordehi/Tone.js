@@ -18,7 +18,7 @@ import {
 	ToneOscillatorInterface,
 } from "./OscillatorInterface.js";
 
-export { PulseOscillatorOptions } from "./OscillatorInterface.js";
+export type { PulseOscillatorOptions } from "./OscillatorInterface.js";
 
 /**
  * PulseOscillator is an oscillator with control over pulse width,

@@ -20,7 +20,7 @@ import {
 import { ToneOscillatorNode } from "./ToneOscillatorNode.js";
 import { assertRange } from "../../core/util/Debug.js";
 import { clamp } from "../../core/util/Math.js";
-export {
+export type {
 	ToneOscillatorOptions,
 	ToneOscillatorType,
 } from "./OscillatorInterface.js";

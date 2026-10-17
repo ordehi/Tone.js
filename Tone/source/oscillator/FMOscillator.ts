@@ -15,7 +15,7 @@ import {
 	ToneOscillatorType,
 } from "./OscillatorInterface.js";
 
-export { FMOscillatorOptions } from "./OscillatorInterface.js";
+export type { FMOscillatorOptions } from "./OscillatorInterface.js";
 /**
  * FMOscillator implements a frequency modulation synthesis
  * ```

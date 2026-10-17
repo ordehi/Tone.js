@@ -24,7 +24,7 @@ import {
 import { PulseOscillator } from "./PulseOscillator.js";
 import { PWMOscillator } from "./PWMOscillator.js";
 
-export { OmniOscillatorOptions } from "./OscillatorInterface.js";
+export type { OmniOscillatorOptions } from "./OscillatorInterface.js";
 
 /**
  * All of the oscillator types that OmniOscillator can take on
