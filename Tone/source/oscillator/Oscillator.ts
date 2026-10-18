@@ -20,7 +20,7 @@ import {
 	ToneOscillatorType,
 } from "./OscillatorInterface.js";
 import { ToneOscillatorNode } from "./ToneOscillatorNode.js";
-export {
+export type {
 	ToneOscillatorOptions,
 	ToneOscillatorType,
 } from "./OscillatorInterface.js";

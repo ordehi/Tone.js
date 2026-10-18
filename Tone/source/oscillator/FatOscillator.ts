@@ -20,7 +20,7 @@ import {
 	ToneOscillatorType,
 } from "./OscillatorInterface.js";
 
-export { FatOscillatorOptions } from "./OscillatorInterface.js";
+export type { FatOscillatorOptions } from "./OscillatorInterface.js";
 
 /**
  * FatOscillator is an array of oscillators with detune spread between the oscillators

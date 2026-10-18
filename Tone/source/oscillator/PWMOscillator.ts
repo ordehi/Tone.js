@@ -12,7 +12,7 @@ import {
 } from "./OscillatorInterface.js";
 import { PulseOscillator } from "./PulseOscillator.js";
 
-export { PWMOscillatorOptions } from "./OscillatorInterface.js";
+export type { PWMOscillatorOptions } from "./OscillatorInterface.js";
 
 /**
  * PWMOscillator modulates the width of a Tone.PulseOscillator

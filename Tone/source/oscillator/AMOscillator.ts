@@ -16,7 +16,7 @@ import {
 	ToneOscillatorType,
 } from "./OscillatorInterface.js";
 
-export { AMOscillatorOptions } from "./OscillatorInterface.js";
+export type { AMOscillatorOptions } from "./OscillatorInterface.js";
 
 /**
  * An amplitude modulated oscillator node. It is implemented with
